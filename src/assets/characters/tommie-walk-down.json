@@ -1,0 +1,69 @@
+{
+  "image": "tommie-walk-down.png",
+  "preview": "tommie-walk-down-preview.gif",
+  "direction": "down",
+  "frameCount": 6,
+  "columns": 6,
+  "rows": 1,
+  "frameWidth": 144,
+  "frameHeight": 144,
+  "sheetWidth": 864,
+  "sheetHeight": 144,
+  "frameDurationMs": 100,
+  "loop": true,
+  "suggestedAnchor": {
+    "x": 72,
+    "y": 120
+  },
+  "referenceBodyHeight": 94,
+  "suggestedIdleFrameIndex": 0,
+  "frameBounds": [
+    [
+      57,
+      26,
+      86,
+      120
+    ],
+    [
+      57,
+      25,
+      85,
+      119
+    ],
+    [
+      57,
+      25,
+      85,
+      118
+    ],
+    [
+      58,
+      26,
+      86,
+      120
+    ],
+    [
+      58,
+      25,
+      88,
+      118
+    ],
+    [
+      58,
+      24,
+      87,
+      118
+    ]
+  ],
+  "source": {
+    "tool": "PixelLab",
+    "mode": "skeleton-v3",
+    "template": "walking-6-frames",
+    "characterId": "e1834eac-3912-44ea-b6e7-5715bf97bd44",
+    "animationGroupId": "02ec2773-9126-4b26-a123-915425f10463",
+    "animationId": "62bc067b-03a1-48f5-884c-302dc356737e",
+    "direction": "south",
+    "pixelToolsSheetId": "ea8d4b7e-679b-4b6e-a50a-eaffb3c8994f",
+    "pixelToolsPreviewId": "8bdd1c93-1f52-47dc-be66-1f6669402881"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "image": "tommie-walk-right.png",
+  "preview": "tommie-walk-right-preview.gif",
+  "direction": "right",
+  "frameCount": 6,
+  "columns": 6,
+  "rows": 1,
+  "frameWidth": 144,
+  "frameHeight": 144,
+  "sheetWidth": 864,
+  "sheetHeight": 144,
+  "frameDurationMs": 100,
+  "loop": true,
+  "suggestedAnchor": {
+    "x": 72,
+    "y": 120
+  },
+  "referenceBodyHeight": 94,
+  "source": {
+    "tool": "PixelLab",
+    "mode": "skeleton-v3",
+    "template": "walking-6-frames",
+    "characterId": "e1834eac-3912-44ea-b6e7-5715bf97bd44",
+    "animationGroupId": "30bb0bd3-275c-4561-8de1-988307f7f967"
+  }
+}

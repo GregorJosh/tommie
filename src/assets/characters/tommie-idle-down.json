@@ -1,0 +1,41 @@
+{
+  "image": "tommie-idle-down.png",
+  "direction": "down",
+  "frameCount": 4,
+  "columns": 4,
+  "rows": 1,
+  "frameWidth": 144,
+  "frameHeight": 144,
+  "sheetWidth": 576,
+  "sheetHeight": 144,
+  "frameDurationMs": 250,
+  "loop": true,
+  "suggestedAnchor": {
+    "x": 72,
+    "y": 120
+  },
+  "referenceBodyHeight": 94,
+  "source": {
+    "tool": "PixelLab",
+    "mode": "v3",
+    "animation": "tommie-idle-down-full-feet",
+    "characterId": "e1834eac-3912-44ea-b6e7-5715bf97bd44",
+    "animationGroupId": "020b51ac-95d5-4a09-aa3c-9c4989585510",
+    "animationId": "18c98d7d-c1de-4bcb-9d9b-e1eef57462c5",
+    "direction": "south",
+    "selectedSourceFrames": [3, 3, 3, 3],
+    "pixelToolsAnimationId": "3c1a4d6b-bb6b-4ff5-a72c-d571779adab5",
+    "pixelToolsSheetId": "d6786927-d7c9-4747-b65a-0696b86d9b0f"
+  },
+  "correction": {
+    "method": "single_pose_breathing",
+    "sourceAnimationFrameIndex": 3,
+    "phaseSequence": ["rest", "inhale", "inhale", "rest"],
+    "inhaleOffsetY": -1,
+    "copyRegions": [
+      { "source": [0, 1, 143, 47], "destination": [0, 0] },
+      { "source": [68, 48, 81, 60], "destination": [68, 47] }
+    ],
+    "description": "Wszystkie klatki pochodzą z jednej pełnej pozy. Ręce, dłonie, pas i nogi pozostają identyczne; głowa, barki i środek koszulki unoszą się o 1 piksel podczas wdechu. Dwie fazy oddechu po 500 ms przy odtwarzaniu 250 ms na klatkę."
+  }
+}

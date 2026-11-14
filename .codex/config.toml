@@ -1,0 +1,13 @@
+[mcp_servers.pixellab]
+command = "npx"
+args = [
+  "mcp-remote@latest",
+  "https://api.pixellab.ai/mcp",
+  "--transport",
+  "http-only",
+  "--header",
+  "Authorization:${AUTH_HEADER}"
+]
+
+[mcp_servers.pixellab.env]
+AUTH_HEADER = "Bearer pixl_50737729ede54b55bef0cc0534a37ed5"

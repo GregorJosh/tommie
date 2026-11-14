@@ -1,0 +1,19 @@
+{
+  "image": "tommie-idle.png",
+  "direction": "east",
+  "frameCount": 6,
+  "columns": 6,
+  "rows": 1,
+  "frameWidth": 144,
+  "frameHeight": 144,
+  "sheetWidth": 864,
+  "sheetHeight": 144,
+  "loop": true,
+  "pivot": "cell-center",
+  "source": {
+    "tool": "PixelLab",
+    "mode": "v3",
+    "characterId": "e1834eac-3912-44ea-b6e7-5715bf97bd44",
+    "animationGroupId": "1d3d2090-f9c0-4ece-8dd4-beef677eb2b6"
+  }
+}
