@@ -24,5 +24,8 @@ docs
 *.sw?
 
 *.md
+AGENTS.md
+PROJECT.md
 docs
 .vscode
+.gitignore
