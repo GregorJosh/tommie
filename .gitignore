@@ -22,3 +22,7 @@ docs
 *.njsproj
 *.sln
 *.sw?
+
+*.md
+docs
+.vscode

@@ -4,20 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-    {
-        "name": "Launch Integrated Browser",
-        "request": "launch",
-        "type": "editor-browser",
-        "url": "http://localhost:5173",
-        "webRoot": "${workspaceFolder}"
-    },
         {
             "type": "editor-browser",
             "request": "launch",
             "name": "Launch Integrated Browser against localhost",
             "url": "http://localhost:5173",
             "webRoot": "${workspaceFolder}",
-            "preLaunchTask": "npm: dev"
-        }
+            "preLaunchTask": "dev"
+        },
     ]
 }
